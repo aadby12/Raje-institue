@@ -11,16 +11,16 @@ export function AdmissionsCTA() {
                 Admissions Open
               </p>
               <h2 className="mt-3 text-2xl font-bold tracking-tight sm:text-3xl lg:text-4xl">
-                Your Future in Healthcare Can Start This Intake
+                Applications Are Open for the Next Intake
               </h2>
               <p className="mt-3 max-w-2xl text-sm leading-6 text-slate-200 sm:text-base">
-                Secure your place in a practical, career-focused learning environment where you are
-                trained with purpose, guided with care, and prepared for real opportunities.
+                Join a structured training environment focused on practical skills, discipline, and
+                readiness for healthcare support roles.
               </p>
             </div>
             <div className="rounded-2xl border border-white/15 bg-white/10 px-5 py-4 text-sm">
-              <p className="font-semibold text-white">Next Intake Support</p>
-              <p className="mt-1 text-slate-200">Admissions guidance available now.</p>
+              <p className="font-semibold text-white">Need Help Applying?</p>
+              <p className="mt-1 text-slate-200">Our team can guide you through requirements and steps.</p>
             </div>
           </div>
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">

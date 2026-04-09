@@ -10,12 +10,11 @@ export function HeroSection() {
             Healthcare Training Institute, Ghana
           </p>
           <h1 className="text-3xl font-bold leading-tight tracking-tight text-slate-900 sm:text-4xl lg:text-5xl">
-            Build a Respected Healthcare Career with Practical Training
+            Start Your Healthcare Career at Raje Institute
           </h1>
           <p className="max-w-xl text-base leading-7 text-slate-700 sm:text-lg sm:leading-8">
-            At Raje Institute, students gain the confidence, discipline, and hands-on skills needed
-            for Medicine Counter Assistant and Pharmacy Assistant opportunities in Ghana's evolving
-            healthcare sector.
+            We train students for Medicine Counter Assistant and Pharmacy Assistant roles through
+            practical classroom sessions, guided support, and a strong focus on professional conduct.
           </p>
           <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
             <a
@@ -50,19 +49,11 @@ export function HeroSection() {
             alt="Healthcare students in practical class"
             className="relative h-80 w-full rounded-2xl object-cover shadow-xl sm:h-[28rem]"
           />
-          <div className="absolute inset-x-4 bottom-4 grid grid-cols-3 gap-2 rounded-xl bg-white/95 p-3 shadow-lg backdrop-blur">
-            <div>
-              <p className="text-lg font-bold text-slate-900">95%</p>
-              <p className="text-[11px] text-slate-600 sm:text-xs">Practical focus</p>
-            </div>
-            <div>
-              <p className="text-lg font-bold text-slate-900">Small</p>
-              <p className="text-[11px] text-slate-600 sm:text-xs">Class guidance</p>
-            </div>
-            <div>
-              <p className="text-lg font-bold text-slate-900">Career</p>
-              <p className="text-[11px] text-slate-600 sm:text-xs">Readiness model</p>
-            </div>
+          <div className="absolute inset-x-4 bottom-4 rounded-xl bg-white/95 p-3 shadow-lg backdrop-blur">
+            <p className="text-sm font-semibold text-slate-900">Admissions currently open</p>
+            <p className="mt-1 text-xs text-slate-600 sm:text-sm">
+              Contact our admissions team for entry requirements and intake details.
+            </p>
           </div>
         </div>
       </div>

@@ -70,9 +70,9 @@ export const trustHighlights: FeatureItem[] = [
 export const programs: ProgramItem[] = [
   {
     title: "Medicine Counter Assistant (MCA) / Pharmacy Assistant",
-    duration: "Comprehensive career-track program",
+    duration: "Core professional training",
     summary:
-      "Build practical healthcare support skills with a curriculum focused on dispensing support, patient interaction, and professional ethics.",
+      "Learn practical healthcare support skills with training focused on dispensing support, patient interaction, and professional ethics.",
     outcomes: [
       "Practical counter and customer care skills",
       "Workplace discipline and communication",
@@ -82,9 +82,9 @@ export const programs: ProgramItem[] = [
   },
   {
     title: "Community Health Support (Upcoming)",
-    duration: "Future-ready training pathway",
+    duration: "Planned future program",
     summary:
-      "A planned program to expand career opportunities in community-based health support and wellness education.",
+      "An upcoming pathway to support careers in community-based health support and wellness education.",
     outcomes: [
       "Foundational public health orientation",
       "Community-facing communication skills",
@@ -126,19 +126,19 @@ export const recognitionBadges = [
 export const testimonials: TestimonialItem[] = [
   {
     quote:
-      "Raje Institute gave me practical confidence and professional discipline. I now feel prepared for real healthcare support work.",
+      "Raje Institute gave me confidence in practical work and communication. I now feel better prepared for healthcare support roles.",
     name: "Abena O.",
     role: "MCA Graduate",
   },
   {
     quote:
-      "The instructors were supportive and clear. Every class felt connected to real opportunities after school.",
+      "The tutors explained lessons clearly and kept us focused. The training was practical and easy to apply.",
     name: "Kwame A.",
     role: "Pharmacy Assistant Trainee",
   },
   {
     quote:
-      "As a parent, I appreciated the structure and communication. The institute feels serious and student-focused.",
+      "As a parent, I appreciated the structure and regular communication. The institute takes student progress seriously.",
     name: "Mrs. Boateng",
     role: "Parent",
   },
