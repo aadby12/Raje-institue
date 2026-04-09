@@ -18,12 +18,7 @@ export function TopBar() {
             {contactInfo.email}
           </a>
         </div>
-        <a
-          href="#admissions"
-          className="inline-flex w-fit items-center rounded-full border border-teal-300/60 px-3 py-1 font-medium text-teal-100 transition hover:bg-teal-300/10 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-300"
-        >
-          Admissions Open
-        </a>
+        <p className="text-slate-200">Mon-Sat, 8:00am - 5:00pm</p>
       </div>
     </div>
   );

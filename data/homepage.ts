@@ -23,10 +23,10 @@ export type TestimonialItem = {
 };
 
 export const contactInfo = {
-  phone: "+233 24 123 4567",
-  email: "admissions@rajeinstitute.edu.gh",
+  phone: "+233 50 140 6790",
+  email: "admissions@rajeinstitute.com",
   whatsapp: "https://wa.me/233241234567",
-  location: "Accra, Ghana",
+  location: "Avenor, Accra - Ghana",
 };
 
 export const navItems: NavItem[] = [
@@ -38,10 +38,10 @@ export const navItems: NavItem[] = [
 ];
 
 export const heroBadges = [
-  "Practical Learning",
-  "Career-Focused Training",
-  "Student Support",
-  "Professional Development",
+  "Hands-on practical sessions",
+  "Career-focused instruction",
+  "Student support and guidance",
+  "Professional discipline",
 ];
 
 export const trustHighlights: FeatureItem[] = [
@@ -53,17 +53,17 @@ export const trustHighlights: FeatureItem[] = [
   {
     title: "Supportive Environment",
     description:
-      "A structured and respectful campus culture where students are guided to grow with confidence.",
+      "A structured and respectful learning environment where students are guided with consistency.",
   },
   {
     title: "Career Pathway Focus",
     description:
-      "Training aligned with employability goals, communication skills, and workplace readiness.",
+      "Training built around employability, communication, and workplace readiness.",
   },
   {
     title: "Admissions Guidance",
     description:
-      "Clear, helpful support from inquiry to enrollment so families can make informed decisions.",
+      "Clear support from inquiry to enrollment so applicants and families can decide confidently.",
   },
 ];
 
@@ -72,7 +72,7 @@ export const programs: ProgramItem[] = [
     title: "Medicine Counter Assistant (MCA) / Pharmacy Assistant",
     duration: "Core professional training",
     summary:
-      "Learn practical healthcare support skills with training focused on dispensing support, patient interaction, and professional ethics.",
+      "Learn core healthcare support skills with training in dispensing support, patient interaction, and professional ethics.",
     outcomes: [
       "Practical counter and customer care skills",
       "Workplace discipline and communication",
@@ -84,7 +84,7 @@ export const programs: ProgramItem[] = [
     title: "Community Health Support (Upcoming)",
     duration: "Planned future program",
     summary:
-      "An upcoming pathway to support careers in community-based health support and wellness education.",
+      "An upcoming pathway for community-based health support and wellness education roles.",
     outcomes: [
       "Foundational public health orientation",
       "Community-facing communication skills",
@@ -112,7 +112,7 @@ export const whyChooseUs: FeatureItem[] = [
   {
     title: "Career-Oriented Training",
     description:
-      "Curriculum and coaching are designed around employability and confidence.",
+      "Our curriculum and coaching are designed to prepare students for entry-level opportunities.",
   },
 ];
 
@@ -126,19 +126,19 @@ export const recognitionBadges = [
 export const testimonials: TestimonialItem[] = [
   {
     quote:
-      "Raje Institute gave me confidence in practical work and communication. I now feel better prepared for healthcare support roles.",
+      "Raje Institute helped me improve my practical skills and communication. I now feel ready for healthcare support work.",
     name: "Abena O.",
     role: "MCA Graduate",
   },
   {
     quote:
-      "The tutors explained lessons clearly and kept us focused. The training was practical and easy to apply.",
+      "Tutors explained lessons clearly and pushed us to stay disciplined. The practical training was very useful.",
     name: "Kwame A.",
     role: "Pharmacy Assistant Trainee",
   },
   {
     quote:
-      "As a parent, I appreciated the structure and regular communication. The institute takes student progress seriously.",
+      "As a parent, I appreciated the structure and updates from the school. They take student progress seriously.",
     name: "Mrs. Boateng",
     role: "Parent",
   },

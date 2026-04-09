@@ -39,6 +39,7 @@ export function Footer() {
             <li>{contactInfo.phone}</li>
             <li>{contactInfo.email}</li>
             <li>{contactInfo.location}</li>
+            <li>Mon-Sat, 8:00am - 5:00pm</li>
           </ul>
         </div>
       </div>

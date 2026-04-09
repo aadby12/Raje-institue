@@ -11,7 +11,7 @@ export function AdmissionsCTA() {
                 Admissions Open
               </p>
               <h2 className="mt-3 text-2xl font-bold tracking-tight sm:text-3xl lg:text-4xl">
-                Applications Are Open for the Next Intake
+                September 2026 Intake Is Open
               </h2>
               <p className="mt-3 max-w-2xl text-sm leading-6 text-slate-200 sm:text-base">
                 Join a structured training environment focused on practical skills, discipline, and
@@ -20,7 +20,7 @@ export function AdmissionsCTA() {
             </div>
             <div className="rounded-2xl border border-white/15 bg-white/10 px-5 py-4 text-sm">
               <p className="font-semibold text-white">Need Help Applying?</p>
-              <p className="mt-1 text-slate-200">Our team can guide you through requirements and steps.</p>
+              <p className="mt-1 text-slate-200">Call or WhatsApp admissions for entry requirements and fees.</p>
             </div>
           </div>
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">

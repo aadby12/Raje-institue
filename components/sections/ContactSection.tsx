@@ -11,6 +11,7 @@ export function ContactSection() {
           <h2 className="mt-2 text-2xl font-bold tracking-tight text-slate-900 sm:text-3xl">
             Speak with Admissions
           </h2>
+          <p className="mt-2 text-sm text-slate-700">Walk-in inquiries welcome at our Avenor office in Accra.</p>
           <div className="mt-4 space-y-3 text-sm text-slate-700">
             <p>
               <span className="font-semibold text-slate-900">Phone:</span> {contactInfo.phone}
@@ -47,7 +48,7 @@ export function ContactSection() {
                 name="name"
                 type="text"
                 className="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 outline-none transition focus:border-slate-500 focus:ring-2 focus:ring-slate-200"
-                placeholder="Your name"
+                placeholder="Eg. Ama Mensah"
               />
             </div>
             <div className="sm:col-span-1">
@@ -83,7 +84,7 @@ export function ContactSection() {
                 name="message"
                 rows={4}
                 className="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 outline-none transition focus:border-slate-500 focus:ring-2 focus:ring-slate-200"
-                placeholder="I would like to learn more about admissions..."
+                placeholder="I want to apply for the MCA / Pharmacy Assistant program."
               />
             </div>
           </div>
